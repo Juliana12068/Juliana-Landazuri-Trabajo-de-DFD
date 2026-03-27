@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+Suma
+1
+0
+8
+Contador
+1
+0
+4
+Nota
+1
+0
+4
+1
+51
+"Ingrese la nota del estudiante (o -1 para salir):"
+5
+1
+4
+nota
+9
+1
+10
+nota != -1
+7
+0
+1
+19
+nota>=0 AND nota<=5
+4
+1
+41
+'Nota invalida, solo se permite de 0 a 5'
+13
+6
+2
+4
+Suma
+11
+Suma + Nota
+8
+Contador
+12
+Contador + 1
+13
+4
+1
+43
+'Ingrese la siguiente nota 0 -1 para salir'
+5
+1
+4
+nota
+11
+6
+1
+8
+Promedio
+16
+suma / contador 
+4
+1
+40
+'El total de estudiantes es: ', Contador
+4
+1
+38
+'El promedio del grupo es: ', Promedio
+1
