@@ -1,3 +1,3 @@
 # Juliana-Landazuri-Trabajo-de-DFD
-Integrantes
+Integrante:
 Juliana Landazuri Angulo - ID 1125618
